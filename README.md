@@ -2,7 +2,7 @@
 
 a=50
 b=10
-hello
+hello 2
 
 
 local repo created from local
