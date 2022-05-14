@@ -1,5 +1,5 @@
 # git-local-2
-a=40
+a=60
 local repo created from local
 
 readme created from git hub
