@@ -1,6 +1,7 @@
 # git-local-2
 
 a=50
+b=10
 
 local repo created from local
 
